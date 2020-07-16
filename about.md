@@ -34,6 +34,12 @@ layout: page
     took a year off from college working at CERN as a full-stack software developer.
 </p>
 
+<p>
+    His sabbatical year luckily also guaranteed that he didn't receive his gradation online due to the 
+    COVID-19 pandemic and should probably result in a proper graduation ceremony in 2021. Fingers crossed 
+    🤞🤞.
+</p>
+
 <p><i>
     Fun Anecdote: Till date he has not been able to use the attendance app as he has broken the entire university
     infrastructure with his sabbatical year.
