@@ -65,6 +65,12 @@ authors:
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
+  anish_sachdeva:
+    name: Anish Sachdeva
+    bio: DTU Undergrad '21
+    external-image: false
+    picture: assets/images/profile-final.jpg
+    twitter: anishLearnsCode
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
