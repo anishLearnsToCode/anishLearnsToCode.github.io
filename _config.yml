@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://www.linkedin.com/in/anishsachdeva1998/
 
-url: https://sergiokopplin.github.io/indigo
+url: https://anishLearnsToCode.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+#facebook: myfacebook
+#twitter: mytwitter
+instagram: anish.sachdeva_
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: anishsachdeva1998
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
+spotify: myspotify
+github: anishLearnsToCode
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: @anish.sachdeva
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: anish_@outlook.com
 
 authors:
   johndoe:
