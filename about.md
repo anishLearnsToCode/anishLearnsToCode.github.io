@@ -26,3 +26,15 @@ layout: page
     community and learning from all of them. Tricky questions from students and participants in workshop
     are also welcome, especially when he knows the answer 😏😉 
 </p>
+
+<p>
+    <b>Funny story</b>: His  engineering degree was for 4 years and was supposed to graduate in 2020, but he
+    received an offer to work at CERN, Geneva for an entire year 🎉🥳 and he had to fight the university
+    and the administration (basically a lot of begging) to let him go. he eventually won the battle and 
+    took a year off from college working at CERN as a full-stack software developer.
+</p>
+
+<p><i>
+    Fun Anecdote: Till date he has not been able to use the attendance app as he has broken the entire university
+    infrastructure with his sabbatical year.
+</i></p>
