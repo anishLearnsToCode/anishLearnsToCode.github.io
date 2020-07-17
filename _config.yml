@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile-final.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -57,19 +57,19 @@ authors:
     name: John Doe
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
+#    picture: assets/images/profile.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
     external-image: false
-    picture: assets/images/james.jpg
+#    picture: assets/images/james.jpg
     twitter: jamesfoster
   anish_sachdeva:
     name: Anish Sachdeva
     bio: DTU Undergrad '21
     external-image: false
-    picture: assets/images/profile-final.jpg
+    picture: assets/images/profile.jpg
     twitter: anishLearnsCode
     facebook: anish.sachdeva.180
     linkedin: anishsachdeva1998
