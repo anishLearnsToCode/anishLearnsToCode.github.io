@@ -1,9 +1,9 @@
 ---
-title: "State Diagram Generator (Theory of Automata)"
+title: "State Diagram Generator"
 layout: post
 date: 2020-04-23 18:07
 tag: theory-of-automata
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://github.com/anishLearnsToCode/anishLearnsToCode.github.io/tree/master/assets/images/projects/state-diagram-generator/dfa.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,6 +13,6 @@ author: anish_sachdeva
 externalLink: false
 ---
 
-<h1>State Diagram Generator</h1>
+# State Diagram Generator
 
-<p>This is a sample project</p>
+This is a sample project
