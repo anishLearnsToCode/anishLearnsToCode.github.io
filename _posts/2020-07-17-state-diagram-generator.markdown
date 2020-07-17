@@ -13,4 +13,6 @@ author: anish_sachdeva
 externalLink: false
 ---
 
-# State Diagram Generator
+<h1>State Diagram Generator</h1>
+
+<p>This is a sample project</p>
