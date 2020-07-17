@@ -15,4 +15,11 @@ externalLink: false
 
 # State Diagram Generator
 
-This is a sample project
+See project on [GitHub :octocat:](https://github.com/anishLearnsToCode/state-diagram-generator) and deployed 
+[here 🌐](state-diagram-generator.web.app/).
+
+This project has been created to display the deterministic finite state automata (DFA) or the Non-Deterministic Finite 
+State Automata (NFA) of any given valid regular expression.
+
+A deterministic automata along with it's transmission table will be generated for the given regular expression and the 
+user can also check whether any given string is recognized by that particular regular language.
