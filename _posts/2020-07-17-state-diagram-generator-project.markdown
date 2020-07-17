@@ -1,5 +1,5 @@
 ---
-title: "State Diagram Generator"
+title: "State Diagram Generator (Theory of Automata)"
 layout: post
 date: 2020-04-23 18:07
 tag: theory-of-automata
