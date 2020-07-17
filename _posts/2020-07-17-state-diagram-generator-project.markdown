@@ -60,7 +60,7 @@ textbox for string checking to compile entire projects in different languages.
 
 A finite automaton is a 5-tuple _(Q, &Sigma;, &delta;, q, F)_ where
 - _Q_ is a finite set called the states
-- _&Sigma;_is a finite set called the alphabet.
-- _&delta; : Q &times; &Sigma; &rightarrow; Q_ is the transition function.
-- _q &in; Q_ is the start state.
-- _F &subset; Q_ are the acceptance states. 
+- _&Sigma;_ is a finite set called the alphabet.
+- _&delta; : Q &times; &Sigma; →  Q_ is the transition function.
+- _q ∈  Q_ is the start state.
+- _F ⊂  Q_ are the acceptance states. 
