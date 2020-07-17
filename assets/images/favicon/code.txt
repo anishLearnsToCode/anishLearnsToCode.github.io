@@ -1,7 +1,23 @@
-
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="alien-ship.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="alien-ship.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="alien-ship.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="alien-ship.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="alien-ship.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="alien-ship.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="alien-ship.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="alien-ship.png" />
+<link rel="icon" type="image/png" href="alien-ship.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="alien-ship.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="alien-ship.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="alien-ship.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="alien-ship.png" sizes="128x128" />
 
 <link rel="icon" type="image/png" href="alien-ship.png" sizes="320x270" />
 
 <meta name="application-name" content="&nbsp;"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
-
+<meta name="msapplication-TileImage" content="alien-ship.png" />
+<meta name="msapplication-square70x70logo" content="alien-ship.png" />
+<meta name="msapplication-square150x150logo" content="alien-ship.png" />
+<meta name="msapplication-wide310x150logo" content="alien-ship.png" />
+<meta name="msapplication-square310x310logo" content="alien-ship.png" />
